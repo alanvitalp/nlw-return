@@ -1,5 +1,5 @@
 # nlw-return
-Feedback component with Tailwind, PrismaORM. This application was made with SOLID principles.
+Feedback component with Tailwind, PrismaORM and Jest for testing. This application was made with SOLID principles.
 
 # To initialize Frontend, go to front folder, then:
 
